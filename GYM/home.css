@@ -1,0 +1,274 @@
+.header {
+    background-color: indigo;
+    height: 55px;
+}
+
+.tr {
+    color: white;
+    font-weight: bold;
+    font-family: calibri;
+    font-size: 40px;
+}
+
+.st {
+    color: red;
+    font-weight: bold;
+    font-family: calibri;
+    font-size: 40px;
+}
+
+.header-logo {
+    height: 45px;
+    width: 300px;
+    color: navy;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 1%;
+    margin-top: 3px;
+    display: inline;
+}
+
+.user-account {
+    display: flex;
+    float: right;
+    padding-top: 9px;
+    color: white;
+    margin-right: 23px;
+    text-indent: 3px;
+    font-weight: bold;
+}
+
+.login {
+    display: inline-block;
+}
+
+.signup {
+    display: inline-block;
+    border: solid 1px white;
+    padding: 5px;
+    margin-left: 25px;
+}
+
+.member {
+    display: inline-block;
+    border: solid 1px white;
+    padding: 5px;
+    margin-left: 25px;
+    background-color: rebeccapurple;
+}
+
+.absolute-div {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.small-heading {
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+    padding-left: 155px;
+    padding-top: 155px;
+    text-shadow: 2px 1px lavenderblush;
+}
+
+.main-heading {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: cursive;
+    color: whitesmoke;
+    padding-left: 46px;
+    text-shadow: 3px 3px firebrick;
+}
+
+.member {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    font-family: calibri;
+    padding-left: 5px;
+    margin-left: 235px;
+    margin-top: 12px;
+}
+
+.head {
+    display: flex;
+    text-indent: 10px;
+    padding-left: 500px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.ch {
+    color: black;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.pr {
+    color: red;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.para {
+    word-break: break-word;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 21px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.programs {
+    display: inline-block;
+    height: 180px;
+    width: 500px;
+    margin-right: 70px;
+    margin-top: 35px;
+}
+
+.left-side {
+    display: inline-block;
+    width: 45%;
+}
+
+.right-side {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+.item-heading {
+    font-size: 21px;
+    font-family: cursive;
+    font-weight: bold;
+    color: coral;
+    margin-top: 10px;
+}
+
+.item-desc {
+    color: navy;
+    font-family: cursive;
+    font-size: 14px;
+}
+
+.discover {
+    color: darkblue;
+    font-family: auto;
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: 600
+}
+
+.box {
+    background-color: black;
+    border: 3px solid red;
+    width: 100%;
+    height: 400px;
+    margin-top: 120px;
+}
+
+.headerb {
+    display: inline-flex;
+    text-indent: 10px;
+    padding-left: 400px;
+    padding-top: 100px;
+}
+
+.descipt {
+    color: white;
+    font-size: 20px;
+    font-family: inherit;
+    padding-left: 230px;
+    padding-top: 25px;
+}
+
+.memb {
+    border: 1px solid navy;
+    background-color: orangered;
+    width: 220px;
+    height: 38px;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    font-family: calibri;
+    padding-top: 5px;
+    margin-left: 550px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.training {
+    display: inline-flex;
+    box-shadow: 4px 5px 8px blue;
+    width: 360px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.train-head {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.schedule {
+    box-shadow: 4px 5px 8px blue;
+    width: 360px;
+    margin-bottom: 10px;
+    margin-top: 35px;
+    margin-left: 20px;
+    height: 64px;
+    background-color: red;
+    color: white;
+}
+
+.schedule-view {
+    font-size: 35px;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.traning-class {
+    font-size: 37px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.des {
+    font-size: 20px;
+}
+
+.view-schedule {
+    font-size: 25px;
+    border: 1px solid black;
+    width: 185px;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+}
+
+.image-portion {
+    margin-top: 50px;
+    box-shadow: 3px 1px 10px 10px navy;
+}
+
+.circle{
+    width: 550px;
+    height: 550px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: 125px;
+    border-radius: 257px;
+}
